@@ -1,7 +1,7 @@
 {
 	"name": "KocengMarsFileSaver",
 	"description": "Koceng File Saver",
-	"repository": "https://github.com/kocengmars/filesaver",
+	"repository": "https://github.com/ExoticUBOT/Exo-DATABASEBOT",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Heroku_logo.svg",
 	"keywords": ["telegram","filesaver","bot","nodejs"],
 		"env": {
